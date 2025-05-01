@@ -13,4 +13,3 @@ class Program
         Game.Start(); // Start the game loop
     }
 }
-

@@ -95,5 +95,4 @@ namespace DungeonExplorer2.Characters
             Console.WriteLine($"The Zombie's swing leaves you with {target.Health} health."); 
         }
     }
-
 }

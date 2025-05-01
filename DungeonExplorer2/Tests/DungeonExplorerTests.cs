@@ -41,4 +41,3 @@ namespace DungeonExplorer2.Tests
         }
     }
 }
-

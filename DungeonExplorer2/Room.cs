@@ -167,10 +167,7 @@ namespace DungeonExplorer2
                         Console.WriteLine($"You act quickly!.");
                     }
                 }
-
-
             }
-
             // once the monster is dead or if there was no monster
             // if the room has an item
             if (Item != null)
@@ -182,8 +179,6 @@ namespace DungeonExplorer2
             {
                 Console.WriteLine("You rummage around but find nothing of worth."); // message if the room has no item
             }
-
         }
     }
 }
-
